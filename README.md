@@ -19,9 +19,6 @@ Dev C++
 編譯
 
     SP_project2.cpp  
-或
-
-    SP_project2_v2.cpp
 
 之後執行程式<br>
 <br>
