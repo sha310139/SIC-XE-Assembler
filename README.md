@@ -1,5 +1,7 @@
 # SIC-XE-Assembler
 將SIC及SIC/XE的語法做檢查，並翻成object code。
+<br> 
+<br>
 
 ## 開發平台
 Win10
@@ -44,14 +46,13 @@ SIC或SIC/XE的程式碼<br>
 ## output檔格式
 由左到右的欄位分別是<br> 
 Line、Loc、Source statement、Object code<br> 
-Loc為根據指令大小做計算，以16進位表示
+Loc為根據指令大小做計算，以16進位表示<br> 
 Object code則是根據指令類型及label的Loc去做計算
 <br>
 <br>
 
 
 ## 規則細節說明
-<br>
 以下為實作之語法內容<br>
 <br>
 
